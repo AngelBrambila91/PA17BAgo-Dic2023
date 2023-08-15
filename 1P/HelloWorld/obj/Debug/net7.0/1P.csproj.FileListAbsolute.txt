@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/bin/Debug/net7.0/1P
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/bin/Debug/net7.0/1P.deps.json
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/bin/Debug/net7.0/1P.runtimeconfig.json
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/bin/Debug/net7.0/1P.dll
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/bin/Debug/net7.0/1P.pdb
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.AssemblyInfo.cs
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.dll
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/refint/1P.dll
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.pdb
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/1P.genruntimeconfig.cache
+/Users/angelbrambila/Documents/PA17BAgo-Dic2023/1P/obj/Debug/net7.0/ref/1P.dll
