@@ -1,0 +1,14 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/bin/Debug/net7.0/Formatting
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/bin/Debug/net7.0/Formatting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/bin/Debug/net7.0/Formatting.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Formatting/obj/Debug/net7.0/ref/Formatting.dll
