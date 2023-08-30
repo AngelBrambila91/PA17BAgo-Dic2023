@@ -1,0 +1,14 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/bin/Debug/net7.0/CastingAndConverting
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/bin/Debug/net7.0/CastingAndConverting.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/bin/Debug/net7.0/CastingAndConverting.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/bin/Debug/net7.0/CastingAndConverting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/bin/Debug/net7.0/CastingAndConverting.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/refint/CastingAndConverting.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/CastingAndConverting.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/CastingAndConverting/obj/Debug/net7.0/ref/CastingAndConverting.dll

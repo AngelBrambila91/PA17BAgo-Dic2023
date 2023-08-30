@@ -1,0 +1,14 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/bin/Debug/net7.0/Operators
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/bin/Debug/net7.0/Operators.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/Operators/obj/Debug/net7.0/ref/Operators.dll

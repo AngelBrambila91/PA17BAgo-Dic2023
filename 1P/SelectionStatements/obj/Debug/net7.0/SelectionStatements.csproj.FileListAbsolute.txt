@@ -1,0 +1,14 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/bin/Debug/net7.0/SelectionStatements
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/bin/Debug/net7.0/SelectionStatements.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/bin/Debug/net7.0/SelectionStatements.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/bin/Debug/net7.0/SelectionStatements.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/bin/Debug/net7.0/SelectionStatements.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/refint/SelectionStatements.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/SelectionStatements.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/1P/SelectionStatements/obj/Debug/net7.0/ref/SelectionStatements.dll
