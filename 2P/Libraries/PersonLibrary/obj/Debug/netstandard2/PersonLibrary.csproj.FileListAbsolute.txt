@@ -1,0 +1,10 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/bin/Debug/netstandard2/PersonLibrary.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/bin/Debug/netstandard2/PersonLibrary.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/bin/Debug/netstandard2/PersonLibrary.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/Debug/netstandard2/PersonLibrary.pdb

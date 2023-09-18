@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2PqKsugVZJ7UJaafLR7SJ0pIjUwZ2ZDoWEzB33QTo3J3yLb3M+o4pOkXFQm1aV5o102rV4XWEqUhZ5XaDBhig==",
+  "success": true,
+  "projectFilePath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/angelbrambila/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/angelbrambila/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
