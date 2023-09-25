@@ -50,4 +50,38 @@ public class Person
     // feature : add children to person
     public List<Person>? Children;
     public BankAccount bankAccount = new();
+
+    // 1st Step of delegates
+    // Create the method to call
+    public int MethodIWantToCall(string input)
+    {
+        return input.Length;
+    }
+
+    // 2nd example of delegate using a primitive delegate
+    // Rule N1 of delegates : ALL DELEGATES, check the signature of the method
+    // Signature: Return type, Parameters
+    public delegate int DelegateWithMatchingSignature (string s);
+
+    // 3rd example , using delegates as Events
+    public delegate void EventHandler(object? sender, EventArgs e);
+
+    // delegate field
+    public EventHandler? Shout;
+    // data field
+    public int AngerLevel;
+    // Method that triggers everything
+    public void Poke()
+    {
+        AngerLevel++;
+        if(AngerLevel >= 3)
+        {
+            // if something is listening
+            if(Shout != null)
+            {
+                // call the messenger, call the delegate
+                Shout(this, EventArgs.Empty);
+            }
+        }
+    }
 }
