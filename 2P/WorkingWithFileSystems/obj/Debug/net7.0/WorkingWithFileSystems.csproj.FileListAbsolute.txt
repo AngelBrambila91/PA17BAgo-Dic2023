@@ -1,0 +1,14 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/bin/Debug/net7.0/WorkingWithFileSystems
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/bin/Debug/net7.0/WorkingWithFileSystems.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/bin/Debug/net7.0/WorkingWithFileSystems.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/bin/Debug/net7.0/WorkingWithFileSystems.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/bin/Debug/net7.0/WorkingWithFileSystems.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/refint/WorkingWithFileSystems.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/WorkingWithFileSystems.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithFileSystems/obj/Debug/net7.0/ref/WorkingWithFileSystems.dll
