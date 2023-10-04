@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pW9VIz9yzRndyIdaj55PP41e3kwd2JnpK8EgKqxyFqz56i4Vsfpez6ayXFtRNy+DrJxXbx/zjoxkv3UQQRkDEA==",
+  "success": true,
+  "projectFilePath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "/Users/angelbrambila/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

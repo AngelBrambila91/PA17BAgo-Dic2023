@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person fname="Gretta" lname="Medrano" dob="2005-11-12T00:00:00">
+    <bankAccount>
+      <Balance>0</Balance>
+    </bankAccount>
+  </Person>
+  <Person fname="Jared" lname="Flores" dob="2001-03-12T00:00:00">
+    <bankAccount>
+      <Balance>0</Balance>
+    </bankAccount>
+  </Person>
+  <Person fname="Denahi" lname="Lopez" dob="2004-08-10T00:00:00">
+    <bankAccount>
+      <Balance>0</Balance>
+    </bankAccount>
+  </Person>
+  <Person fname="Fernando" lname="Garcia" dob="2005-10-04T00:00:00">
+    <bankAccount>
+      <Balance>0</Balance>
+    </bankAccount>
+    <Children>
+      <Person fname="Marisol" lname="Garcia" dob="2023-10-01T00:00:00">
+        <bankAccount>
+          <Balance>0</Balance>
+        </bankAccount>
+      </Person>
+      <Person fname="Cesar" lname="Apolinar" dob="2021-08-20T00:00:00">
+        <bankAccount>
+          <Balance>0</Balance>
+        </bankAccount>
+      </Person>
+    </Children>
+  </Person>
+</ArrayOfPerson>

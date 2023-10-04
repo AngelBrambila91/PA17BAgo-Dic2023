@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/WorkingWithSerialization.csproj": {}
+  },
+  "projects": {
+    "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj",
+        "projectName": "PersonLibrary",
+        "projectPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj",
+        "packagesPath": "/Users/angelbrambila/.nuget/packages/",
+        "outputPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/WorkingWithSerialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/WorkingWithSerialization.csproj",
+        "projectName": "WorkingWithSerialization",
+        "projectPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/WorkingWithSerialization.csproj",
+        "packagesPath": "/Users/angelbrambila/.nuget/packages/",
+        "outputPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithSerialization/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj": {
+                "projectPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/Libraries/PersonLibrary/PersonLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

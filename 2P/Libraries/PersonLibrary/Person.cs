@@ -1,5 +1,6 @@
 ﻿namespace PA17B.Shared;
 using System.Collections.Generic;
+using System.Xml.Serialization; // [xmlAttributes]
 
 public class Person
 {
@@ -10,15 +11,20 @@ public class Person
     {
 
     }
-    public Person(string Name, DateTime dateOfBirth, FavoriteFood favoriteFood, bool wantChildren)
+    // public Person(string Name, DateTime dateOfBirth, FavoriteFood favoriteFood, bool wantChildren)
+    // {
+    //     this.Name = Name;
+    //     this.DateOfBirth = dateOfBirth;
+    //     this.favoriteFood = favoriteFood;
+    //     if(wantChildren)
+    //     {
+    //         Children = new();
+    //     }
+    // }
+
+    public Person(decimal initialValue)
     {
-        this.Name = Name;
-        this.DateOfBirth = dateOfBirth;
-        this.favoriteFood = favoriteFood;
-        if(wantChildren)
-        {
-            Children = new();
-        }
+        Salary = initialValue;
     }
     /*
      Constructor:  its called whe
@@ -43,12 +49,16 @@ public class Person
     */
 
     //fields
-    public string? Name;
-    public DateTime DateOfBirth;
-
-    public FavoriteFood favoriteFood;
+    [XmlAttribute("fname")]
+    public string? Name { get; set; }
+    [XmlAttribute("lname")]
+    public string? LastName { get; set; }
+    [XmlAttribute("dob")]
+    public DateTime DateOfBirth { get; set; }
+    protected decimal Salary { get; set; }
+    //public FavoriteFood favoriteFood;
     // feature : add children to person
-    public List<Person>? Children;
+    public HashSet<Person>? Children { get; set; }
     public BankAccount bankAccount = new();
 
     // 1st Step of delegates
@@ -64,24 +74,24 @@ public class Person
     public delegate int DelegateWithMatchingSignature (string s);
 
     // 3rd example , using delegates as Events
-    public delegate void EventHandler(object? sender, EventArgs e);
+    //public delegate void EventHandler(object? sender, EventArgs e);
 
     // delegate field
-    public EventHandler? Shout;
-    // data field
-    public int AngerLevel;
-    // Method that triggers everything
-    public void Poke()
-    {
-        AngerLevel++;
-        if(AngerLevel >= 3)
-        {
-            // if something is listening
-            if(Shout != null)
-            {
-                // call the messenger, call the delegate
-                Shout(this, EventArgs.Empty);
-            }
-        }
-    }
+    // public EventHandler? Shout;
+    // // data field
+    // public int AngerLevel;
+    // // Method that triggers everything
+    // public void Poke()
+    // {
+    //     AngerLevel++;
+    //     if(AngerLevel >= 3)
+    //     {
+    //         // if something is listening
+    //         if(Shout != null)
+    //         {
+    //             // call the messenger, call the delegate
+    //             Shout(this, EventArgs.Empty);
+    //         }
+    //     }
+    // }
 }

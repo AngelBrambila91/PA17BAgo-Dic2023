@@ -1,0 +1,63 @@
+[
+    {
+        "bankAccount": {
+            "AccountName": null,
+            "Balance": 0.0
+        },
+        "Name": "Gretta",
+        "LastName": "Medrano",
+        "DateOfBirth": "2005-11-12T00:00:00",
+        "Children": null
+    },
+    {
+        "bankAccount": {
+            "AccountName": null,
+            "Balance": 0.0
+        },
+        "Name": "Jared",
+        "LastName": "Flores",
+        "DateOfBirth": "2001-03-12T00:00:00",
+        "Children": null
+    },
+    {
+        "bankAccount": {
+            "AccountName": null,
+            "Balance": 0.0
+        },
+        "Name": "Denahi",
+        "LastName": "Lopez",
+        "DateOfBirth": "2004-08-10T00:00:00",
+        "Children": null
+    },
+    {
+        "bankAccount": {
+            "AccountName": null,
+            "Balance": 0.0
+        },
+        "Name": "Fernando",
+        "LastName": "Garcia",
+        "DateOfBirth": "2005-10-04T00:00:00",
+        "Children": [
+            {
+                "bankAccount": {
+                    "AccountName": null,
+                    "Balance": 0.0
+                },
+                "Name": "Marisol",
+                "LastName": "Garcia",
+                "DateOfBirth": "2023-10-01T00:00:00",
+                "Children": null
+            },
+            {
+                "bankAccount": {
+                    "AccountName": null,
+                    "Balance": 0.0
+                },
+                "Name": "Cesar",
+                "LastName": "Apolinar",
+                "DateOfBirth": "2021-08-20T00:00:00",
+                "Children": null
+            }
+        ]
+    }
+]
