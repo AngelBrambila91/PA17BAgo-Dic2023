@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Northwind.db
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/refint/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/ref/WorkingWithEFCore.dll
