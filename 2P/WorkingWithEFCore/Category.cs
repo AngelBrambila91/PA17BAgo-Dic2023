@@ -1,17 +1,34 @@
-using System.ComponentModel.DataAnnotations.Schema; // Column, Atrributes
-public class Category
-{
-    public int CategoryId { get; set; }
-    public string? CategoryName { get; set; }
-    [Column(TypeName = "ntext")]
-    public string? Description { get; set; }
-    // Navigation Property
-    // Collection that holds the result of the relation between two tables
-    // IN THIS CASE, the relation between Categories and Products
-    public virtual ICollection<Product>? Products { get; set; }
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
+namespace WorkingWithEFCore
+{
+  [Index("CategoryName", Name = "CategoryName")]
+  public partial class Category
+  {
     public Category()
     {
-        Products = new HashSet<Product>();
+      Products = new HashSet<Product>();
     }
+
+    [Key]
+    public int CategoryId { get; set; }
+
+    [Required]
+    [Column(TypeName = "nvarchar (15)")]
+    [StringLength(15)]
+    public string CategoryName { get; set; } = null!;
+
+    [Column(TypeName = "ntext")]
+    public string? Description { get; set; }
+
+    [Column(TypeName = "image")]
+    public byte[]? Picture { get; set; }
+
+    [InverseProperty("Category")]
+    public virtual ICollection<Product> Products { get; set; }
+  }
 }

@@ -21,6 +21,7 @@
     </PackageReference>
     <Using Include="System.Console" Static="true" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.12" />
   </ItemGroup>
 
 </Project>

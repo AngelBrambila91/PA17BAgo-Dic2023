@@ -60,3 +60,8 @@
 /Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Castle.Core.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

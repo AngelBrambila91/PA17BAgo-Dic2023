@@ -16,6 +16,9 @@ public class Northwind : DbContext
         optionsBuilder.UseSqlite(connection);
         //optionsBuilder.LogTo(WriteLine).EnableSensitiveDataLogging();
 
+        // Using Lazy Loading
+        optionsBuilder.UseLazyLoadingProxies();
+
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -35,6 +38,15 @@ public class Northwind : DbContext
             .Property(product => product.Cost)
             .HasConversion<double>();
         }
+
+        // Global filter to remove discontinued products
+        modelBuilder.Entity<Product>()
+        .HasQueryFilter(p => !p.Discontinued);
+
+        // Eager Loading : Load data early
+        // Lazy Loading : Load data automatically just before its needed
+        // Explicit Loading : Load data manually
+
     }
 
 }

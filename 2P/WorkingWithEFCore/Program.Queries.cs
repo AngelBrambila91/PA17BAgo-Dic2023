@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.EntityFrameworkCore.ChangeTracking; // CollectionEntry
 using WorkingWithEFCore;
 
 partial class Program
@@ -12,22 +12,44 @@ partial class Program
             // LEFT JOIN Products AS P ON P.CategoryId = C.CategoryId
             SectionTitle("Categories and how many products they have: ");
             // IQueryable
-            IQueryable<Category>? categories =
-            db.Categories?
-            .Include(c => c.Products);
-            if ((categories is null) || !categories.Any())
+            IQueryable<Category>? categories;
+            db.ChangeTracker.LazyLoadingEnabled = false;
+            Write("Enable eager loading? (Y/N): ");
+            bool eagerLoading = (ReadKey(intercept: true).Key == ConsoleKey.Y);
+            bool explicitLoading = false;
+            WriteLine();
+            if(eagerLoading)
             {
-                Fail("No categories Found");
-                return;
+                categories = db.Categories?.Include(c => c.Products);
             }
-            // Iterate trough categories
-            foreach (Category category in categories)
+            else
             {
-                WriteLine($"{category.CategoryName} has {category.Products!.Count} products.");
-                Info($"Querying Categories : {categories.ToQueryString()}");
+                categories = db.Categories;
+                Write("Enable explicit loading? (Y/N): ");
+                explicitLoading = (ReadKey(intercept:true).Key == ConsoleKey.Y);
+                WriteLine();
+            }
+
+
+            foreach (Category category in categories!)
+            {
+                if(explicitLoading)
+                {
+                    Write($"Explicitly load products for {category.CategoryName} (Y/N): ");
+                    ConsoleKeyInfo key = ReadKey(intercept: true);
+                    WriteLine();
+                    if(key.Key == ConsoleKey.Y)
+                    {
+                        CollectionEntry<Category, Product> products = 
+                        db.Entry(category).Collection(category2 => category2.Products!);
+                        if(!products.IsLoaded)
+                        products.Load();
+                    }
+                }
+                WriteLine($"{category.CategoryName} has {category.Products?.Count} products");
+                Info($"Querying Products : {categories.ToQueryString()}");
             }
         }
-
     }
 
     static void FilteredInclude()
@@ -56,7 +78,7 @@ partial class Program
             }
             foreach (Category category in categories)
             {
-                WriteLine($"{category.CategoryName} has {category.Products.Count} products WITH a minimum of {stock}");
+                WriteLine($"{category.CategoryName} has {category.Products!.Count} products WITH a minimum of {stock}");
                 foreach (Product product in category.Products)
                 {
                     WriteLine($"{product.ProductName} has {product.Stock} units in Stock");
@@ -108,7 +130,7 @@ partial class Program
             // %input%
             IQueryable<Product>? products =
             db.Products?
-            .Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
+            .Where(p => EF.Functions.Like(p.ProductName!, $"%{input}%"));
             if ((products is null) || !products.Any())
             {
                 Fail("No products found");
@@ -119,6 +141,30 @@ partial class Program
                 WriteLine($"{product.ProductName} , has {product.Stock} units in stock. Discontinued? {product.Discontinued}");
                 //Info($"Querying Products with Like : {products.ToQueryString()}");
             }
+        }
+    }
+
+    static void GetRandomProduct()
+    {
+        using(Northwind db = new())
+        {
+            SectionTitle("Get a Random product.");
+            int? rowCount = db.Products?.Count();
+            if(rowCount == null)
+            {
+                Fail("Products table is empty");
+                return;
+            }
+            Product? p = 
+            db.Products?.FirstOrDefault(
+                p => p.ProductId == (int)
+                (EF.Functions.Random() * rowCount));
+            if(p == null)
+            {
+                Fail("Product not found");
+                return;
+            }
+                WriteLine($"Random product: {p.ProductId} {p.ProductName}");
         }
     }
 }
