@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Packt.Shared
+namespace WorkingWithEFCore
 {
   [Keyless]
   public partial class Territory

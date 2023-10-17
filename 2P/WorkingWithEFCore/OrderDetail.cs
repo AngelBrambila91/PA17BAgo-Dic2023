@@ -17,7 +17,6 @@ namespace WorkingWithEFCore
     [Column(TypeName = "int")]
     public int OrderId { get; set; }
 
-    [Key]
     [Column(TypeName = "int")]
     public int ProductId { get; set; }
 
