@@ -1399,11 +1399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
+      "projectUniqueName": "/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
       "projectName": "WorkingWithEFCore",
-      "projectPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
+      "projectPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
       "packagesPath": "/Users/angelbrambila/.nuget/packages/",
-      "outputPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/",
+      "outputPath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17BAgo-Dic2023/2P/WorkingWithEFCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
@@ -1461,7 +1461,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
