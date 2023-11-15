@@ -1,0 +1,23 @@
+﻿@page
+@* Added Entities so we can use Employees Entity *@
+@using Common.Entities;
+@* Always add this thing, it's important, and the explanation of the why it's too long to put on a comment *@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@* As usual, get the model from the file Employee.cshtml.cs *@
+@model NorthwindFeatures.Pages.EmployeesPageModel
+
+@* Usual boring Web Stuff (like all web stuff btw) *@
+<div class = "row">
+    <h1 class= "display-2">Employees</h1>
+</div>
+<div class="row">
+    @foreach (Employee employee in Model.Employees)
+    {
+        <div class="col-sm-3">
+            @* And the crown of the jewel is the partial name tag *@
+            @* This one gets a piece of a Razor Page in this case, the one named Employee, which is this same one :3*@
+            @* You will see why this is important in the next example *@
+            <partial name="_Employee" model="employee"/>
+        </div>
+    }
+</div>

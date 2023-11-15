@@ -1,0 +1,13 @@
+@model Common.Entities.Employee
+@* This is the creation of a single card for every Employee *@
+@* Every Employee will use this, and this is the bwautiful thing *@
+@* Because we created in a razor library *@
+<div class="card border-dark mb-3" style="max-widht: 18 rem">
+    <div class="card-header">@Model.LastName, @Model.FirstName</div>
+    <div class="card-body text-dark">
+        <h5 class="card-title">
+            @Model?.Country
+        </h5>
+        <p class="card-text">@Model?.Notes</p>
+    </div>
+</div>
