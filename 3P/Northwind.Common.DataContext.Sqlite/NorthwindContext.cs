@@ -47,9 +47,9 @@ public partial class NorthwindContext : DbContext
             }
             else
             {
-                path = path.Combine("Northwind.db");
+                path = Path.Combine("Northwind.db");
             }
-            optionsBuilder.UseSQlite($"Filename={path}");
+            optionsBuilder.UseSqlite($"Filename={path}");
         }
 
     }

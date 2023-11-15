@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Northwind.Web"
+		},
+		{
+			"path": "Northwind.Common.DataContext.Sqlite"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.Sqlite"
+		}
+	],
+	"settings": {}
+}
